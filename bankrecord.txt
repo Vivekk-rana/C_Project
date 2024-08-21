@@ -1,0 +1,4 @@
+apurb		saving		1684008		12000		0		1000		21000
+vivek		current		1706238		1000		0		0		11000
+vimal		saving		247266		0		0		0		10000
+muthhal		mishra		306945		0		0		0		10000
